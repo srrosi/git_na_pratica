@@ -3,3 +3,9 @@ print(a)
 
 [5+i for i in range(1,20,3)]
 print(i)
+
+tupla= (1,2,3,5,6)
+dicionaro = {'a':1,'b':2,'c':3}
+
+print(tupla)
+print(dicionario)
