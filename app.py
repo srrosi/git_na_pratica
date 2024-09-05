@@ -13,3 +13,6 @@ print(dicionario)
 
 set1 = {1,2,3,5,6,7}
 print(set1)
+
+set2 = {1,2,9,8,7}
+print(set2)
