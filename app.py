@@ -9,3 +9,7 @@ dicionaro = {'a':1,'b':2,'c':3}
 
 print(tupla)
 print(dicionario)
+
+
+set1 = {1,2,3,5,6,7}
+print(set1)
